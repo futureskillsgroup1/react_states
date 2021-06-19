@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrap {
+  width: 900px;
+  margin: 10px auto;
+  padding: 10px auto;
+}
+
+.card {
+  width: 500px;
+  padding: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px auto;
+  box-shadow: 10px 10px 10px grey;
+}
+
+.card-add {
+  width: 500px;
+  padding: 30px;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: greenyellow;
+  padding: 5px;
+}
+
+input{
+  display: block;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px blueviolet;
+  height: 30px;
+  margin: 10px;
+}
+
+.btn-danger{
+  background-color: red;
+}
